@@ -50,8 +50,8 @@ I learning and with the patience and determination of the challenges i will face
    <br />
     <br />
     
-<!--[📊 **skills:**
-<!--START_SECTION:sina-->
+<!--[📊 **skills:**-->
+<!--START_SECTION:
 
 ```text
 C#                           ██████████████████████▓░░   89.67 %
