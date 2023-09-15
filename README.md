@@ -19,10 +19,7 @@
 
 <br />
 
-hi, i'm [اسم](ایدی تلگرام), Creation is the ultimate beauty. I am the creator which i create with infinite pleasure at every moment.
-
-I learning and with the patience and determination of the challenges i will face will become them to experience.
-
+about you
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
