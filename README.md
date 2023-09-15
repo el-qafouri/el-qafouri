@@ -33,7 +33,7 @@ I learning and with the patience and determination of the challenges i will face
 
   <br />
   
-**languages and tools:**  
+<!--**languages and tools:**  
 
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg"></code>
@@ -43,14 +43,14 @@ I learning and with the patience and determination of the challenges i will face
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-
+-->
 
 
   <br />
    <br />
     <br />
     
-📊 **skills:**
+<!--[📊 **skills:**
 <!--START_SECTION:sina-->
 
 ```text
@@ -63,7 +63,8 @@ Angular                      █████████████████
 Databases                    ███████████████████▓░░░░░   65.98 %
 Git                          ███████████████████▓░░░░░   65.98 %
 ```
-
+](url)
+-->
 <!--END_SECTION:sina-->
 
   <br />
