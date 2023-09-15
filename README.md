@@ -2,13 +2,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/ایدی لینکدین" target="_blank">
+<a href="https://linkedin.com/in/elhamqafouri" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ایدی اینستاگرام" target="_blank">
+<!-- <a href="https://instagram.com/ایدی اینستاگرام" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/ایدی گیتاب" target="_blank">
+</a> -->
+<a href="https://github.com/el-qafouri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
@@ -28,7 +28,7 @@ I learning and with the patience and determination of the challenges i will face
   
   <br />
   
-- 💼 any freelance work? do reach, [email](نشانی ایمیل) :)
+- 💼 any freelance work? do reach, [email](elham.qafouri.91@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
   <br />
@@ -82,4 +82,4 @@ Git                          █████████████████
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sinariyahi&show_icons=true&theme=gotham" alt="ایدی گیتاب" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=el-qafouri&show_icons=true&theme=gotham" alt="el-qafouri" />
