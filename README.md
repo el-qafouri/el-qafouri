@@ -19,7 +19,7 @@
 
 <br />
 
-about you
+<!-- about you -->
 
 <img align="right"  src="https://github.com/el-qafouri/el-qafouri/assets/124993570/3f10eaa2-f264-419d-b828-3ef3a4811b5e" width="500" height="320" />
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
