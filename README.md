@@ -9,7 +9,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> -->
 <a href="https://github.com/el-qafouri" target="_blank">
-<!-- <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
 <!--  ![](https://visitor-badge.glitch.me/badge?page_id=sinariyahi.sinariyahi)-->
@@ -21,7 +21,7 @@
 
 <!-- about you -->
 
-<img align="right"  src="https://github.com/el-qafouri/el-qafouri/assets/124993570/3f10eaa2-f264-419d-b828-3ef3a4811b5e" width="500" height="320" />
+<!--<img align="right"  src="https://github.com/el-qafouri/el-qafouri/assets/124993570/3f10eaa2-f264-419d-b828-3ef3a4811b5e" width="500" height="320" />
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
   <br />
