@@ -27,7 +27,7 @@
   <br />
   
 - 💼 any freelance work? do reach, [email](elham.qafouri.91@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+<!-- - 💬 ask me about anything, i am happy to help; -->
 
   <br />
   
